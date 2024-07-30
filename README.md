@@ -27,11 +27,11 @@
 </p>
 <br>
   - A passionate Self-taught developer pursuing his Masters Degree
-  <br>
+  <br><br>
   - Playing Fifa in my spare time
-  <br>
+  <br><br>
   - Currently learning Web Dev in python
-  <br>
+  <br><br>
   - I’m currently open for an Intern or a new job opportunity
   <br>
 
