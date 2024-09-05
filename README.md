@@ -6,10 +6,10 @@
 
 <br>
 
-<p><img align="right" src="https://camo.githubusercontent.com/66c06b342b47eb05aa585cabe4f12be9ee40ff1a4f633075b43befcd7dac4701/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457861445a785a477436626e5a754f47786d636a6433596d6c714f4734325a6a526f4e577733633251334d57786e596e4a716158593463535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f7167515567674143335066763638377150432f67697068792e676966" alt="adam-pw" /></p>
+<p><img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="uh" /></p>
 
 
-- 🌱 I’m currently working with Django Framework
+- 🌱 I’m currently working with Django and Springboot Framework
 
 - 📫 How to reach me **saini77aku@gmail.com**
 
