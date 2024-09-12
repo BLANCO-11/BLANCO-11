@@ -45,7 +45,7 @@
 <h3> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" height="20" align="center"> Live Projects</h2>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
+<br>
 
 Free crypto data - https://freecoinsapi.centralindia.cloudapp.azure.com/api/crypto/bitcoin
 
