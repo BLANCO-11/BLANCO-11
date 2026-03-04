@@ -9,7 +9,7 @@
 <p><img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350" height="275"alt="uh" /></p>
 
 
-- 🌱 I’m currently working with Django and Springboot Frameworks
+- 🌱 I’m currently working with AI and Agentic Develoment
 
 - 📫 How to reach me **saini77aku@gmail.com**
 
@@ -34,9 +34,7 @@
   <br><br>
   - Playing Fifa in my spare time
   <br><br>
-  - Currently learning Web Dev in python
-  <br><br>
-  - I’m currently open for an Intern or a new job opportunity
+  - Currently building autonomous systems for AI to use
 <br>
 <br>
 
@@ -47,7 +45,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-Free crypto data - https://freecoinsapi.centralindia.cloudapp.azure.com/api/crypto/bitcoin
 
 <!---->
 
