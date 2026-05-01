@@ -1,101 +1,105 @@
-<h1 align="center">Hola👋, I'm Himanshu</h1>
-<!-- <h3 align="center">.</h3> -->
+<h1 align="center">Hola 👋, I'm Himanshu</h1>
 
-<br>
-
-
-<br>
-
-<p><img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350" height="275"alt="uh" /></p>
-
-
-- 🌱 I’m currently working with AI and Agentic Develoment
-
-- 📫 How to reach me **saini77aku@gmail.com**
-
-- Open to collaborating on innovative data-driven solutions and efficient backend architectures.
-
-
-
-<br><br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/himanshu11saini/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="25" width="35" /></a>  
- <a href="https://x.com/_blanco_11_" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="25" width="35" /></a>
-
-</p>
-<br>
-  - A passionate Software Developer pursuing his Masters Degree
-  <br><br>
-  - Playing Fifa in my spare time
-  <br><br>
-  - Currently building autonomous systems for AI to use
-<br>
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" height="20" align="center"> Live Projects</h2>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-
-
-<!---->
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" height="20" align="center"> Skills</h2>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
 <p align="center">
-
-- **Languages and Frameworks**:
-    
-    [![My Skills](https://skillicons.dev/icons?i=python,java,mysql,nodejs&theme=dark)](https://skillicons.dev)
-
-    [![My Skills](https://skillicons.dev/icons?i=django,flask,spring,react,postgresql&theme=dark)](https://skillicons.dev)
-
-<br>   
-    
-- **Front-End Development**:
-
-   [![My Skills](https://skillicons.dev/icons?i=html,javascript,css,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
-
-<br>
-
-- **Cloud Hosting**:
-
-    [![My Skills](https://skillicons.dev/icons?i=aws,azure,docker&theme=dark)](https://skillicons.dev)
-    
-<br>
-
-- **Softwares and Tools**:
-  
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark)](https://skillicons.dev)
-  
-<br>
+  Building intelligent systems • Breaking them • Fixing them again
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-<h3>Statistical Data</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<p><img src="https://github-readme-stats.vercel.app/api?username=BLANCO-11&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="BLANCO-11's GitHub Stats" /></p>
-
 <br>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=BLANCO-11&theme=gotham&hide_border=true" alt="BLANCO-11's GitHub Stats" /></p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="320" />
+</p>
 
-<br>
+---
 
-      
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+### 🚀 About Me
+
+- 🌱 Working on **AI & Agentic Development** (yes, it's as chaotic as it sounds)
+- 🧠 Into **backend systems that scale without panic**
+- 🤝 Open to **data-heavy + system design collaborations**
+- 🎓 Pursuing my **Master’s Degree**
+- 🎮 Play FIFA… mostly to recover from debugging sessions  
+
+---
+
+### 📬 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/himanshu11saini/" target="blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      height="25" width="35" />
+  </a>
+  <a href="https://x.com/_blanco_11_" target="blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      height="25" width="35" />
+  </a>
+</p>
+
+📫 **saini77aku@gmail.com**
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🧠 Featured Projects (things that actually matter)
+
+- 🔹 **VectorHighway**  
+  Basically Highway system For Drones or UAV's  
+  Tech: C++, Typescript
+  👉 https://github.com/your-repo-link  
+
+- 🔹 **PECS**  
+  A CPU leaning Brain for LLM's for Token usage Reduction 
+  Tech: Python, Next.js  
+  👉 https://github.com/your-repo-link  
+
+- 🔹 **Lyra - Personal OS Agent**  
+  Wannabe Jarvis  
+  Tech: Python, Rust, LLMs  
+  👉 https://github.com/your-repo-link  
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🧩 Skills (things I claim I understand)
+
+#### 💻 Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=python,rust,typescript&theme=dark)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=flask,fastapi,next,postgresql&theme=dark)](https://skillicons.dev)
+
+#### 🌐 Frontend
+[![My Skills](https://skillicons.dev/icons?i=javascript,css,tailwind&theme=dark)](https://skillicons.dev)
+
+#### ☁️ Cloud & DevOps
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,nginx&theme=dark)](https://skillicons.dev)
+
+#### 🛠 Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark)](https://skillicons.dev)
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 📊 GitHub Stats (evidence of survival)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BLANCO-11&theme=gotham&show_icons=true&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BLANCO-11&theme=gotham&hide_border=true" height="150"/>
+</p>
+
+---
+
+### ⚡ Current Focus
+
+- Building **autonomous AI systems**
+- Designing **backend architectures that don’t fall apart at scale**
+- Exploring **agent workflows beyond tutorials**
+
+---
+
+<p align="center">
+  <i>"It worked on my machine. That’s enough for today."</i>
+</p>
