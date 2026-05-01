@@ -24,20 +24,25 @@
 
 ### 📬 Connect with me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/himanshu11saini/" target="blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      height="25" width="35" />
-  </a>
-  <a href="https://x.com/_blanco_11_" target="blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      height="25" width="35" />
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="https://www.linkedin.com/in/himanshu11saini/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="25" />
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://x.com/_blanco_11_" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="25" width="25" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-📫 **saini77aku@gmail.com**
+
+<p align="left">
+  📫 <strong>saini77aku@gmail.com</strong>
+</p>
 
 ---
 
