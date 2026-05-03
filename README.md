@@ -52,12 +52,12 @@
 - 🔹 **VectorHighway**  
   Basically Highway system For Drones or UAV's  
   Tech: C++, Next.js  
-  👉 [https://github.com/your-repo-link](https://github.com/BLANCO-11/VectorHighway)  
+  👉 [https://github.com/BLANCO-11/VectorHighway]  
 
 - 🔹 **PECS**  
   A CPU leaning Brain for LLM's for Token usage Reduction 
   Tech: Python, Next.js  
-  👉 [https://github.com/your-repo-link](https://github.com/BLANCO-11/PECS)  
+  👉 [https://github.com/BLANCO-11/PECS]  
 
 - 🔹 **Lyra - Personal OS Agent**  
   Wannabe Jarvis  
