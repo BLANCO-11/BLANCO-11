@@ -17,7 +17,6 @@
 - 🌱 Working on **AI & Agentic Development** (yes, it's as chaotic as it sounds)
 - 🧠 Into **backend systems that scale without panic**
 - 🤝 Open to **data-heavy + system design collaborations**
-- 🎓 Pursuing my **Master’s Degree**
 - 🎮 Play FIFA… mostly to recover from debugging sessions  
 
 ---
@@ -52,18 +51,18 @@
 
 - 🔹 **VectorHighway**  
   Basically Highway system For Drones or UAV's  
-  Tech: C++, Typescript
-  👉 https://github.com/your-repo-link  
+  Tech: C++, Next.js  
+  👉 [https://github.com/your-repo-link](https://github.com/BLANCO-11/VectorHighway)  
 
 - 🔹 **PECS**  
   A CPU leaning Brain for LLM's for Token usage Reduction 
   Tech: Python, Next.js  
-  👉 https://github.com/your-repo-link  
+  👉 [https://github.com/your-repo-link](https://github.com/BLANCO-11/PECS)  
 
 - 🔹 **Lyra - Personal OS Agent**  
   Wannabe Jarvis  
   Tech: Python, Rust, LLMs  
-  👉 https://github.com/your-repo-link  
+  👉 private 
 
 ---
 
