@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/himanshu11saini/"><img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/_blanco_11_"><img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=000000&style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://x.com/_blanco_7_"><img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=000000&style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:saini77aku@gmail.com"><img src="https://img.shields.io/static/v1?label=|&message=GMAIL&color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
